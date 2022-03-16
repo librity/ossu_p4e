@@ -1,4 +1,4 @@
-<h3 align="center">OSSU - Intro Computer Science - Python for Everybody</h3>
+<h3 align="center">OSSU - Computer Science - Python for Everybody</h3>
 
 <div align="center">
 
