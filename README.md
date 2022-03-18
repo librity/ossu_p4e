@@ -21,3 +21,9 @@
 
 - https://github.com/ossu/computer-science#introduction-to-programming
 - https://www.py4e.com/
+- https://github.com/csev/py4e
+
+### Charles Severance (instructor)
+
+- http://www.dr-chuck.com/
+- https://github.com/csev
