@@ -1,5 +1,5 @@
 <h3 align="center">OSSU - Computer Science</h3>
-<h3 align="center">Python for Everybody</h3>
+<h4 align="center">Python for Everybody</h4>
 
 <br>
 
