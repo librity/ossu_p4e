@@ -1,4 +1,7 @@
-<h3 align="center">OSSU - Computer Science - Python for Everybody</h3>
+<h3 align="center">OSSU - Computer Science</h3>
+<h3 align="center">Python for Everybody</h3>
+
+<br>
 
 <div align="center">
 
